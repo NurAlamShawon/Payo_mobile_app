@@ -26,6 +26,9 @@ transaction_btn.addEventListener("click",function(e){
     document.getElementById("pay_bill").classList.add("hidden");
     document.getElementById("transaction").classList.remove("hidden");
 
+
+    
+
     
    
     console.log("addmoney1");
